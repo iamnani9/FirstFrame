@@ -1,7 +1,5 @@
 # FirstFrame
-Sure! Here’s a professional, clear, and engaging **README.md** content for your **FirstFrame** GitHub repository. It explains the project, tech stack, features, setup, and contribution guidelines — perfect to attract collaborators or users.
 
----
 
 ```markdown
 # FirstFrame
@@ -139,13 +137,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * Thanks to the open source community for providing incredible tools.
 * Inspired by movie booking platforms and TFI fan needs.
 
----
-
-*Build your perfect First Day First Show movie booking experience with FirstFrame!*
+our perfect First Day First Show movie booking experience with FirstFrame!*
 
 ```
 
 ---
 
-If you want, I can also help you generate a simple **LICENSE** file or set up GitHub Actions CI/CD next!
+
 ```
