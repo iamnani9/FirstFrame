@@ -110,7 +110,6 @@ firstframe/
      npm start
      ```
 
-6. Open your browser at [http://localhost:3000](http://localhost:3000) to see the app.
 
 ---
 
